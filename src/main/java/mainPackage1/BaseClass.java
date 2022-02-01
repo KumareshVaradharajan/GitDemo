@@ -15,5 +15,11 @@ public class BaseClass {
 	{
 		System.out.println("BaseClassMethod 2- Executed Successfully");
 	}
+	
+	@Test
+	public void baseClassMethod3()
+	{
+		System.out.println("BaseClassMethod 3- Executed Successfully");
+	}
 
 }
