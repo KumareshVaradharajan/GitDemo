@@ -7,7 +7,7 @@ public class Test1 {
 	@Test
 	public void testMethod1()
 	{
-		System.out.println("Test Method 1 executed");
+		System.out.println("Test Method 1 executed successfully");
 	}
 
 }
