@@ -7,6 +7,8 @@ public class Test2 {
 	@Test
 	public void testrMethod2()
 	{
+		System.out.println("Test 2 method of Test 1 Class is getting executed");
+		
 		System.out.println("Test 2 method of Test 2 Class is getting executed");
 	}
 
